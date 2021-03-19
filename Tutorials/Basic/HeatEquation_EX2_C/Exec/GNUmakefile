@@ -5,9 +5,9 @@ DEBUG     = FALSE
 USE_MPI   = TRUE 
 USE_OMP   = FALSE
 COMP      = gcc
-DIM       = 3 
+DIM       = 3
 
-USE_CUDA  = TRUE 
+USE_CUDA  = FALSE 
 USE_HIP   = FALSE
 USE_DPCPP = FALSE
 

@@ -1,6 +1,6 @@
 nsteps = 10000
-plot_int = 1000
-n_cell = 256
+plot_int = 200
+n_cell = 128
 max_grid_size = 64
 
 # 0 = periodic
